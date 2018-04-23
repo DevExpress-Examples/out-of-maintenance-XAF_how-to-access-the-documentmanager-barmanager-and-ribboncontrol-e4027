@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" ?>
+<Application>
+
+  <Options UIType="TabbedMDI" Skin="VS2010" />
+
+</Application>

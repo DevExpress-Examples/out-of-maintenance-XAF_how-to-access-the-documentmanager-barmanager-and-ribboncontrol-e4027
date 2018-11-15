@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [TabsCustomizationWindowController.cs](./CS/TabsLayoutCustomization.Module.Win/Controllers/TabsCustomizationWindowController.cs)
+* [Model.xafml](./CS/TabsLayoutCustomization.Win/Model.xafml)
+<!-- default file list end -->
 # How to access the DocumentManager, BarManager and RibbonControl
 
 

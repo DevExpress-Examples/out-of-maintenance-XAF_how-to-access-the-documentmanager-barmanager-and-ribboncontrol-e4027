@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BarManagerCustomizationWindowController.cs](./CS/TabsLayoutCustomization.Module.Win/Controllers/BarManagerCustomizationWindowController.cs) (VB: [BarManagerCustomizationWindowController.vb](./VB/TabsLayoutCustomization.Module.Win/Controllers/BarManagerCustomizationWindowController.vb))
+* [RibbonCustomizationWindowController.cs](./CS/TabsLayoutCustomization.Module.Win/Controllers/RibbonCustomizationWindowController.cs) (VB: [RibbonCustomizationWindowController.vb](./VB/TabsLayoutCustomization.Module.Win/Controllers/RibbonCustomizationWindowController.vb))
+* [TabsCustomizationWindowController.cs](./CS/TabsLayoutCustomization.Module.Win/Controllers/TabsCustomizationWindowController.cs) (VB: [TabsCustomizationWindowController.vb](./VB/TabsLayoutCustomization.Module.Win/Controllers/TabsCustomizationWindowController.vb))
+<!-- default file list end -->
 # How to access the DocumentManager, BarManager and RibbonControl
 
 
